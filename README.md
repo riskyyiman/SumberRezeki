@@ -1,7 +1,7 @@
 
 # SumberRezeki 💰
 
-[![Framework](https://img.shields.io/badge/Framework-Laravel/React/Flutter-blue.svg)](https://github.com/riskyyiman/SumberRezeki)
+[![Framework](https://img.shields.io/badge/React)](https://github.com/riskyyiman/SumberRezeki)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 **SumberRezeki** adalah sistem [sebutkan jenis aplikasi, misal: Manajemen Inventaris / Point of Sales] yang dirancang untuk mempermudah [tujuan utama aplikasi, misal: pencatatan transaksi dan stok barang bagi UMKM].
