@@ -1,33 +1,33 @@
-
 # SumberRezeki 💰
 
-[![Framework](https://img.shields.io/badge/React.svg)](https://github.com/riskyyiman/SumberRezeki)
+[![Framework](https://img.shields.io/badge/Framework-React-61DAFB?style=flat&logo=react&logoColor=white)](https://github.com/riskyyiman/SumberRezeki)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-**SumberRezeki** adalah sistem [sebutkan jenis aplikasi, misal: Manajemen Inventaris / Point of Sales] yang dirancang untuk mempermudah [tujuan utama aplikasi, misal: pencatatan transaksi dan stok barang bagi UMKM].
+**SumberRezeki** adalah aplikasi berbasis web yang dibangun menggunakan **React.js**. Aplikasi ini dirancang untuk [sebutkan tujuan, misal: Manajemen Penjualan / Dashboard UMKM] dengan fokus pada performa yang cepat dan antarmuka pengguna yang interaktif.
 
 ---
 
 ## 🚀 Fitur Utama
 
-Beberapa fitur unggulan dari proyek ini adalah:
-* **Manajemen Inventaris:** Lacak stok barang secara real-time.
-* **Sistem Penjualan (POS):** Proses transaksi dengan cepat dan akurat.
-* **Laporan Keuangan:** Generate laporan harian, mingguan, hingga bulanan.
-* **Multi-User Role:** Akses berbeda untuk Admin, Kasir, dan Gudang.
-* **Responsive UI:** Nyaman digunakan di desktop maupun perangkat mobile.
+* **Single Page Application (SPA):** Navigasi cepat tanpa reload halaman.
+* **State Management:** Pengelolaan data yang efisien menggunakan [Context API / Redux / Zustand].
+* **Responsive Design:** Optimal diakses melalui smartphone, tablet, maupun desktop.
+* **Dashboard Interaktif:** Visualisasi data yang memudahkan pemantauan bisnis.
+* **Modern UI/UX:** Menggunakan komponen yang bersih dan mudah digunakan.
 
 ---
 
 ## 🛠️ Tech Stack
 
-Aplikasi ini dibangun menggunakan teknologi berikut:
+Aplikasi ini dikembangkan dengan teknologi modern:
 
 | Komponen | Teknologi |
 | :--- | :--- |
-| **Frontend** | [Misal: React.js / Vue.js / Blade] |
-| **Backend** | [Misal: Laravel / Node.js / Express] |
-| **Database** | [Misal: MySQL / PostgreSQL / MongoDB] |
-| **Styling** | [Misal: Tailwind CSS / Bootstrap] |
+| **Library Utama** | React.js |
+| **Build Tool** | [Vite / Create React App] |
+| **Styling** | [Tailwind CSS / Bootstrap / Styled Components] |
+| **Routing** | React Router DOM |
+| **State Management** | [Sebutkan jika ada, misal: Redux Toolkit] |
+| **API Fetching** | [Axios / Fetch API] |
 
 ---
